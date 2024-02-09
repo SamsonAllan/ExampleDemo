@@ -2,6 +2,8 @@ public class Student {
     private String name;
     private String position;
 
+    // fields
+
     public Student(String name, String position) {
         this.name = name;
         this.position = position;
